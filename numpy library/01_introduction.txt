@@ -1,0 +1,10 @@
+numpy stands for numerical python
+it is a libarary of python that helps in faster computing of large datasets
+it is 50 to 100 times faster than python 
+and it takes less memory
+and it has easy math operation
+this library is used alot in data science and machine learning/AI
+numpy is also vastly used to analyse stock market trends
+
+
+
